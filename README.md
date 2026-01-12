@@ -1,0 +1,2 @@
+# Analysis-of-Absorption-and-Scattering-Cross-Sections-of-Au-and-Ag-Nanospheres
+In this project, absorption and scattering cross section of Au and Ag nanospheres had explored using Nanosphere Optics simulator and found absorption and scattering efficiency rises with the medium's refractive index.These trends highlight how surrounding dielectric environments significantly tune the optical response of noble metal nanoparticles.
